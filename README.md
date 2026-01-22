@@ -1,36 +1,59 @@
-# Nirmantha Kaushalya
-**Full Stack Developer | MERN Specialist**
+<h1 align="center">Hey there, I'm Nirmantha </h1>
 
----
 
-### 🟢 About Me
-I am a developer dedicated to building high-performance web applications. I specialize in the MERN stack with a strong focus on clean architecture and efficient database management.
-
-- 🚀 Currently working on: Full Stack Web Solutions
-- 🧠 Learning: Advanced Cloud Computing & Microservices
-- ✉️ Reach me at: [nirmantha.dev@gmail.com](mailto:nirmantha.dev@gmail.com)
-
----
-
-### 🛠 Tech Stack
-**Frontend:** React, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3  
-**Backend:** Node.js, Express.js, Java  
-**Database:** MongoDB, MySQL  
-**Tools:** Git, Docker, Postman, Vercel
-
----
-
-### 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nirmantha-kaushalya&show_icons=true&theme=radical&hide_border=true" alt="Nirmantha's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirmantha-kaushalya&theme=radical&hide_border=true" alt="Nirmantha's Streak" width="48%" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmantha-kaushalya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="70%" />
+
+  Full Stack Developer <br/>
+
+  MERN Stack | Passionate about web development <br/>
+
+  
+
 </p>
+
+
 
 ---
 
-### 🔗 Connect with me
-[LinkedIn](https://www.linkedin.com/in/nirmantha-kaushalya-aa2734362/) • [Portfolio](#) • [Email](mailto:nirmantha.dev@gmail.com)
+
+
+### Tech Stack
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"/>
+
+</p>
+
+
+
+---
+
+
+
+### GitHub Stats
+
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Nirmantha-kaushalya&show_icons=true&theme=radical" width="48%"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirmantha-kaushalya&theme=radical" width="48%"/>
+
+</p>
+
+---
