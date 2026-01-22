@@ -1,41 +1,31 @@
-<h1 align="center">Hey there, I'm Nirmantha </h1>
-
-<p align="center">
-  Full Stack Developer <br/>
-  MERN Stack | Passionate about web development <br/>
-  
-</p>
+# Nirmantha Kaushalya
+**Full Stack Developer** *MERN Stack • Java • Scalable Web Solutions*
 
 ---
 
-### Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"/>
-</p>
+### /about-me
+A results-driven developer focused on building clean, maintainable, and efficient web applications. I specialize in the MERN stack and have a strong foundation in backend architecture with Java and MySQL.
+
+- **Currently:** Enhancing full-stack performance and UI/UX design patterns.
+- **Focus:** Scalable architectures, API optimization, and clean code.
 
 ---
 
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nirmantha-kaushalya&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirmantha-kaushalya&theme=radical" width="48%"/>
-</p>
+### /stack
+**Frontend** React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS  
+
+**Backend & Databases** Node.js, Express, Java, MongoDB, MySQL  
+
+**DevOps & Tools** Git, Docker, Postman, Linux
 
 ---
 
-### Connect With Me
-<p align="center">
-  <a href="mailto:nirmantha.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nirmantha-kaushalya-aa2734362/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+### /stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Nirmantha-kaushalya&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=555&icon_color=000)
+
+---
+
+### /connect
+- **Email:** [nirmantha.dev@gmail.com](mailto:nirmantha.dev@gmail.com)
+- **LinkedIn:** [Nirmantha Kaushalya](https://www.linkedin.com/in/nirmantha-kaushalya-aa2734362/)
+- **Portfolio:** [Coming Soon]
