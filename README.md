@@ -1,31 +1,36 @@
 # Nirmantha Kaushalya
-**Full Stack Developer** *MERN Stack • Java • Scalable Web Solutions*
+**Full Stack Developer | MERN Specialist**
 
 ---
 
-### /about-me
-A results-driven developer focused on building clean, maintainable, and efficient web applications. I specialize in the MERN stack and have a strong foundation in backend architecture with Java and MySQL.
+### 🟢 About Me
+I am a developer dedicated to building high-performance web applications. I specialize in the MERN stack with a strong focus on clean architecture and efficient database management.
 
-- **Currently:** Enhancing full-stack performance and UI/UX design patterns.
-- **Focus:** Scalable architectures, API optimization, and clean code.
-
----
-
-### /stack
-**Frontend** React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS  
-
-**Backend & Databases** Node.js, Express, Java, MongoDB, MySQL  
-
-**DevOps & Tools** Git, Docker, Postman, Linux
+- 🚀 Currently working on: Full Stack Web Solutions
+- 🧠 Learning: Advanced Cloud Computing & Microservices
+- ✉️ Reach me at: [nirmantha.dev@gmail.com](mailto:nirmantha.dev@gmail.com)
 
 ---
 
-### /stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Nirmantha-kaushalya&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=555&icon_color=000)
+### 🛠 Tech Stack
+**Frontend:** React, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3  
+**Backend:** Node.js, Express.js, Java  
+**Database:** MongoDB, MySQL  
+**Tools:** Git, Docker, Postman, Vercel
 
 ---
 
-### /connect
-- **Email:** [nirmantha.dev@gmail.com](mailto:nirmantha.dev@gmail.com)
-- **LinkedIn:** [Nirmantha Kaushalya](https://www.linkedin.com/in/nirmantha-kaushalya-aa2734362/)
-- **Portfolio:** [Coming Soon]
+### 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nirmantha-kaushalya&show_icons=true&theme=radical&hide_border=true" alt="Nirmantha's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirmantha-kaushalya&theme=radical&hide_border=true" alt="Nirmantha's Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmantha-kaushalya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="70%" />
+</p>
+
+---
+
+### 🔗 Connect with me
+[LinkedIn](https://www.linkedin.com/in/nirmantha-kaushalya-aa2734362/) • [Portfolio](#) • [Email](mailto:nirmantha.dev@gmail.com)
